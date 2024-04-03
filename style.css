@@ -1,0 +1,94 @@
+body{
+  width: 100%;
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-size:20px;
+}
+.head{
+  margin-top:35px;
+  text-align:center;
+  margin-bottom:30px;
+}
+.artist {
+  font-size: 50px;
+  font-weight: 600;
+  color: #f1ed08;
+  text-decoration: underline aqua; /* This adds an underline with aqua color */
+  text-decoration-color: rgb(216, 216, 27); /* This sets the color of the underline */
+}
+
+.birthdate{
+  font-size:20px;
+}
+.container{
+  margin:0 8px 45px 8px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.img1{
+  width:400px;
+  height:360px;
+  margin-right:35px;
+}
+.img1 img{
+  width:400px;
+  height:360px;
+  object-fit: contain;
+}
+.img4{
+  width:400px;
+  height:360px;
+  margin-right: 25px;
+}
+.img4 img{
+  width:450px;
+  height:360px;
+  object-fit: contain;
+}
+
+.img2{
+  width:400px;
+  height:300px;
+  margin-left:35px;
+}
+.img2 img{
+  width:500px;
+  height:300px;
+  object-fit: contain;
+}
+.matter1{
+  width:570px;
+  margin-left:35px;
+}
+.matter2{
+  width:700px;
+  margin-right:35px;
+}
+.subhead{
+  font-size: 40px;
+  color:yellow;
+}
+.h3{
+  font-size: 40px;
+  color:yellow;
+  align-items: center;
+  align-content: center;
+}
+hr{
+  margin-top:25px;
+  width:15%;
+}
+.madeby{
+  text-align:justify;
+  line-height: 25px;
+  padding-left: 75rem;
+  color:#e0dbd8;
+  font-size: 15px;
+}
+.matter3{
+  width:570px;
+  margin-left:175px;
+}
